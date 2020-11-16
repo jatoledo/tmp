@@ -1,4 +1,4 @@
 #!/bin/bash
 docker ps
 
-ecjo "hi"
+echo "hi"
